@@ -1,0 +1,14 @@
+##A comprehensive analysis of the niche space estimates  
+
+###Step 1. Data
+Load in species-level list data.
+Load in rii data.
+Calculate a mean rii, se of rii, record year.
+
+###Step 2. Categorize
+Assign each species shrub, open, or neutral association with foundation species.
+Filter out other dominants as well?
+Address year issues - ie wet-dry turnover when a species was sampled in more than one year? Classify as switcher?
+
+###Step 3. Estimate niche breadth  
+For filtered and remaining species with rii-driven classifications, scrape gbif, run maxent, and consider null model for geographics.  
