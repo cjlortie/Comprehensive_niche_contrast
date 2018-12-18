@@ -3,7 +3,7 @@
 ###Step 1. Data
 Load in species-level list data.
 Load in rii data.
-Calculate a mean rii, se of rii, record year.
+Calculate a mean rii, se of rii, record the year associated with rii estimate.
 
 ###Step 2. Categorize
 Assign each species shrub, open, or neutral association with foundation species.
